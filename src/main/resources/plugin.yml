@@ -1,0 +1,6 @@
+name: SadevMinesweeper
+version: '${version}'
+main: me.sadev.campominado.CampoMinado
+authors: [ Sadness ]
+description: Plugin de campo minado copia do CraftLandia
+website: https://craftsapiens.com.br
