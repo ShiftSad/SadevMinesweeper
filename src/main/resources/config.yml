@@ -1,0 +1,16 @@
+# %s vai ser substituido pelo nickname do jogador
+
+mensagems:
+  player:
+    eliminado: "Jogador %s eliminado." # %s vai ser substituido pelo nickname do jogador
+    entrou: "%s entrou na partida." # %s vai ser substituido pelo nickname do jogador
+  StartMSG:
+    - "&bIniciando o minigame"
+    - "&aDo balaco baco"
+    - "&c100% original sem copiar a craftlandia"
+
+Recompensas:
+  CampoMinado:
+    Comando:
+      - give %s diamond_block 64
+      - money add %s 1000
